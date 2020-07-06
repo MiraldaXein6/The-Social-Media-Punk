@@ -12,11 +12,11 @@ picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
-url: https://MiraldaXein6.github.io/The-Social-Media-Punk
+url: https://facebook.com/TheSocialMediaPunk
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
