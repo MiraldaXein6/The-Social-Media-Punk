@@ -58,7 +58,7 @@ author:
     bio: Social Media Strategist 
     external-image: false
     picture: assets/images/profile.png
-    twitter: Punk Social Media
+    twitter: PunkSocialMedia
   
 
 # do you want a larger site? change the option below
@@ -67,8 +67,8 @@ author:
 width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
-pagination:
-  enabled: false
+pagination: 
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
