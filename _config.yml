@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: The Social Media Punk
-twitter: Punk Social Media
-# instagram: myinstagram
+facebook: https://www.facebook.com/TheSocialMediaPunk/
+twitter: https://www.twitter.com/PunkSocialMedia/
+instagram: https://www.instagram.com/TheSocialMediaPunk/
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/miraldasanchez
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://MiraldaXein6.github.io
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: thesocialmediapunk@gmail.com
+# email: thesocialmediapunk@gmail.com
 
 author:
   Miralda Sanchez:
