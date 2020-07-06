@@ -3,7 +3,7 @@ name: Miralda Sanchez
 bio: Social Media Strategist
 
 # twitter summary info
-description: A Blog about Social Media and Stuff
+description: Social Media Strategy for Misfits and Rebels
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/TheSocialMediaPunk/
-twitter: https://www.twitter.com/PunkSocialMedia/
-instagram: https://www.instagram.com/TheSocialMediaPunk/
+facebook: TheSocialMediaPunk
+twitter: PunkSocialMedia
+instagram: TheSocialMediaPunk
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/miraldasanchez
+linkedin: miraldasanchez
 # youtube: myyoutube
 # spotify: myspotify
-github: https://MiraldaXein6.github.io
+github: MiraldaXein6.github.io
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
