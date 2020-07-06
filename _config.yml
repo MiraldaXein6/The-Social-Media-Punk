@@ -1,9 +1,9 @@
 # main text of home
 name: Miralda Sanchez
-bio: Musician and Social Media Strategist
+bio: Social Media Strategist
 
 # twitter summary info
-description: A blog about Social Media and Stuff
+description: A Blog about Social Media and Stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://MiraldaXein6.github.io/The-Social-Media-Punk
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: The Social Media Punk
+twitter: Punk Social Media
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -50,21 +50,16 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: thesocialmediapunk@gmail.com
 
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+author:
+  Miralda Sanchez:
+    name: Miralda Sanchez
+    bio: Social Media Strategist 
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: Punk Social Media
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
